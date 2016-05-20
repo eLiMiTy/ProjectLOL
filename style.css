@@ -1,19 +1,38 @@
-head {
-	background-image: url(http://cdn.pcwallart.com/images/league-of-legends-logo-wallpaper-2.jpg)
-}
 
 body {
-	background-image: url(http://apollo-na-uploads.s3.amazonaws.com/1427669031664/SRBackground.png)
+	background-image: url(images/background.png);
 }
 
-#header {
-	width: 1024px;
-	height: 200px;
-	background-color: red;
+header {
+	width: 80%;
+	height: 140px;
+	margin:auto;
+	text-align: center;
+	font-size: 120px;
+	font-style:	normal;
+	color:#F6D75F;
+}
+div{
+	color:#F6D75F;
+}
+div.menueleiste {
+	border-style:none;
+	margin:auto;
+	width: 90%;
+	height: 35px;
+	border: 3px solid gold;
+	float: center;
+	font-size: 30px;
 }
 
-#menueleiste {
-	width: 1024px;
-	height: 50px;
-	background-color: black;
+div.inhalt {
+	margin:auto;
+	
+	width: 80%;
+	height: 76%;
+	border: 3px solid black;
+}
+
+div.text {
+	float: center;
 }
