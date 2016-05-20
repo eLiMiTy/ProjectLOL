@@ -1,13 +1,15 @@
-#geruest {
-	width: 1024px;
-	height: 920px;
-	background-color: green;
+head {
+	background-image: url(http://cdn.pcwallart.com/images/league-of-legends-logo-wallpaper-2.jpg)
+}
+
+body {
+	background-image: url(http://apollo-na-uploads.s3.amazonaws.com/1427669031664/SRBackground.png)
 }
 
 #header {
-width: 1024px;
-height: 200px;
-background-color: red;
+	width: 1024px;
+	height: 200px;
+	background-color: red;
 }
 
 #menueleiste {
