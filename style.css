@@ -30,8 +30,8 @@ div.menueleiste {
 }
 
 div.inhalt {
+	float: center;
 	margin:auto;
-	
 	width: 80%;
 	height: 76%;
 	border: 3px solid black;
