@@ -1,41 +1,43 @@
-div.bg {
-	margin-right: auto;
-	margin-left: auto;
-	width: 100%;
-	/*height: 920px;*/
-	background-color: #BDBDBD;
-	border: 2px solid black;
+
+
+body {
+	background-image: url(images/background.png);
+	background-attachment: fixed;
 }
 
-div.header {
-width: 100%;
-height: 150px;
-background-color: red;
-background-image: url("http://www.foreverfriendsappeal.co.uk/wp-content/uploads/2014/11/Battle-of-Lansdown-header-1024x150.jpg");
+header {
+	width: 80%;
+	height: 140px;
+	margin:auto;
+	text-align: center;
+	font-size: 120px;
+	font-style:	normal;
+	color:#F6D75F;
 }
-
+div{
+	color:#F6D75F;
+}
 div.menueleiste {
-	margin-top: 10px;
-	margin-left: 10px;
-	width: 98%;
+	border-style:none;
+	margin:auto;
+	width: 90%;
 	height: 35px;
-	background-color: white;
-	border: 2px solid orange;
+	border: 3px solid gold;
 	float: center;
+	font-size: 30px;
 	padding-top: 5px;
 	padding-left: 5px;
 }
 
 div.inhalt {
-	margin-top: 10px;
-	margin-left: 10px;
-	margin-bottom: 10px;
-	width: 98%;
-	/*height: 76%; */
-	background-color: #6E6E6E;
-	border: 2px solid black;
+	margin:auto;
+	
+	width: 80%;
+	height: 76%;
+	border: 3px solid black;
 }
 
 div.text {
 	float: center;
 }
+
