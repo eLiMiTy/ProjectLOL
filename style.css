@@ -27,13 +27,15 @@ div.menueleiste {
 	font-size: 30px;
 	padding-top: 5px;
 	padding-left: 5px;
+	color: white;
 }
 
 div.inhalt {
+	float: center;
 	margin:auto;
 	
 	width: 80%;
-	height: 76%;
+	/*height: 76%;*/
 	border: 3px solid black;
 }
 
