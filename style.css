@@ -1,4 +1,5 @@
 
+
 body {
 	background-image: url(images/background.png);
 }
@@ -23,6 +24,8 @@ div.menueleiste {
 	border: 3px solid gold;
 	float: center;
 	font-size: 30px;
+	padding-top: 5px;
+	padding-left: 5px;
 }
 
 div.inhalt {
@@ -36,3 +39,4 @@ div.inhalt {
 div.text {
 	float: center;
 }
+
