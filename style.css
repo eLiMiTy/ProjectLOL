@@ -24,6 +24,13 @@ div.menueleiste {
 	float: center;
 	padding-top: 5px;
 	padding-left: 5px;
+	text-decoration: none;
+}
+a.menu {
+     text-decoration: none;
+     text-decoration-color: black;
+     color:red;
+     
 }
 
 div.inhalt {
