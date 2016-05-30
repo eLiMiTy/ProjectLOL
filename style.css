@@ -18,17 +18,28 @@ div.header {
 div{
 	color:#F6D75F;
 }
+
+a:hover {
+	color: red;
+
+}
+a {
+	text-decoration: none;
+
+}
 div.menueleiste {
 	border-style:none;
 	margin:auto;
+	text-align: center;
 	width: 90%;
 	height: 35px;
-	border: 3px solid blue;
+	border: 3px solid black;
 	float: center;
 	font-size: 30px;
 	padding-top: 5px;
 	padding-left: 5px;
-	color: white;
+	background: #F6D75F;
+	color: #00CBCB;
 }
 
 div.inhalt {
@@ -37,12 +48,18 @@ div.inhalt {
 	width: 80%;
 	/*height: 76%;*/
 	border: 3px solid black;
-	color: white;
+	color: black;
 	font-size: 140%;
+	background-color: white;
+	opacity: 0.6;
+	padding: 20px;
+
 }
+
 
 div.text {
 	float: center;
+
 }
 .midchamps {
 	color: lightblue;
