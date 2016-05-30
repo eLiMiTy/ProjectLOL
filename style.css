@@ -22,6 +22,7 @@ a:hover {
 }
 a {
 	text-decoration: none;
+	opacity: 1.0;
 
 }
 div.menueleiste {
@@ -52,13 +53,6 @@ div.inhalt {
 	padding: 20px;
 
 }
-
-
-div.text {
-	float: center;
-
-<<<<<<< HEAD
+div.bilder {
+	opacity: 1.0;
 }
-
-=======
->>>>>>> 1043da7b166bd0c743922c1a0079a196b7f3f4b7
