@@ -12,9 +12,6 @@ div.header {
 	font-style:	normal;
 	color:#F6D75F;
 }
-div{
-	/*color:#F6D75F;*/
-}
 
 a:hover {
 	color: red;
@@ -44,7 +41,6 @@ div.inhalt {
 	float: center;
 	margin:auto;
 	width: 80%;
-	/*height: 76%;*/
 	border: 3px solid black;
 	color: black;
 	font-size: 140%;
