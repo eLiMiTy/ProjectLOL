@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 body {
@@ -41,3 +42,56 @@ div.text {
 	float: center;
 }
 
+=======
+div.bg {
+	margin-right: auto;
+	margin-left: auto;
+	width: 100%;
+	/*height: 920px;*/
+	;
+	border: 2px solid black;
+}
+
+div.header {
+width: 70%;
+color: yellow;
+font-size: 700%;
+text-align: center;
+border: none;
+}
+
+div.menueleiste {
+	margin-top: 10px;
+	margin-left: 10px;
+	width: 98%;
+	height: 35px;
+	
+	border: 2px solid orange;
+	float: center;
+	padding-top: 5px;
+	padding-left: 5px;
+
+}
+a.menu {    
+}
+body {
+
+	background-image: url("../ProjectLOL/bilder/backgroundLOL.png"); 
+		background-attachment: fixed;
+
+}
+
+div.inhalt {
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	width: 98%;
+	
+	
+	border: 2px solid black;
+}
+
+div.text {
+	float: center;
+}
+>>>>>>> 502a58fbe23c889c450dc54a534cd32ef9c2e534
