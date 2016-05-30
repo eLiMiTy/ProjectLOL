@@ -53,7 +53,18 @@ div.inhalt {
 
 }
 
+div.liste {
+	font-size: 140%px;
+	color: black;
+}
+
 
 div.text {
 	float: center;
+
+}
+
+.midchamps {
+	color: lightblue;
+ }
 
