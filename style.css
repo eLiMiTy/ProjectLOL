@@ -13,7 +13,7 @@ div.header {
 	color:#F6D75F;
 }
 div{
-	color:#F6D75F;
+	/*color:#F6D75F;*/
 }
 
 a:hover {
@@ -23,8 +23,8 @@ a:hover {
 a {
 	text-decoration: none;
 	opacity: 1.0;
-
 }
+
 div.menueleiste {
 	border-style:none;
 	margin:auto;
@@ -49,7 +49,7 @@ div.inhalt {
 	color: black;
 	font-size: 140%;
 	background-color: white;
-	opacity: 0.6;
+	opacity: 0.8;
 	padding: 20px;
 
 }
